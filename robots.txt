@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lutofejitifo.b-cdn.net/sitemap.xml
